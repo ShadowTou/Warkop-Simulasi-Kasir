@@ -1,4 +1,4 @@
-# ☕ Warkop Madura CLI App
+# ☕ Warkop Simulasi Kasir
 
 Aplikasi ini adalah program berbasis **Command Line Interface (CLI)** sederhana yang mensimulasikan sistem pembelian di sebuah warung kopi bernama **Warkop Madura**.  
 Pengguna dapat memilih menu, menambahkan pesanan, dan melihat total harga dari pembelian mereka.
